@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Sanitas zdrava hrana</title>
+		<link>https://sanitas.unaux.com/</link>
+		<description>Zdrava hrana SANITAS</description>
+		<item>
+			<title>Novosti</title>
+			<link>https://sanitas.unaux.com/index.html</link>
+			<description>Novosti vezane za nova otkrića zdravog načina života, nove objave i informacije.</description>
+		</item>
+	</channel>
+</rss>
